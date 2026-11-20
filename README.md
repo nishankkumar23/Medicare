@@ -1,6 +1,9 @@
 # MediCare EHR: Smart Electronic Health Record and Prescription System
 Prototype by Nishank Kumar (B.Tech CSE, IIIT Agartala). Uses **fictional data only**. Not certified for HIPAA or ABDM compliance.
 
+
+live link -: https://medicare-2pc7.onrender.com/
+
 ## Run locally (Node 22.13+)
 ```bash
 npm install
